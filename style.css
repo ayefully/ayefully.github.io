@@ -5,7 +5,7 @@ body {
 
 .main {
     height: auto;
-    background: url(https://i.imgur.com/mZXl6IK.jpg);
+    background: url(https://i.imgur.com/8usrmis.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,7 +33,7 @@ nav {
     margin-top: 26px;
 }
      .navbar {
-        color: #fff;
+        color: #FFA500;
         font-size: 21px;
         margin-left: 25px;
         text-decoration: none;
@@ -73,4 +73,12 @@ nav {
     background-repeat: no-repeat;
     background-size: cover;
     
+}
+
+.background {
+    background: url(https://i.imgur.com/8usrmis.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(50px);
 }
